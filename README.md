@@ -25,7 +25,7 @@ pip install MZAPI
 
 - **姓名**：祁筱欣
 - **开发者邮件**：[mzapi@x.mizhoubaobei.top](mailto:mzapi@x.mizhoubaobei.top)
-- **项目网址**：[https://github.com/xiaomizhoubaobei/MZAPI](https://github.com/xiaomizhoubaobei/XMZAPI)
+- **项目网址**：[https://github.com/xiaomizhoubaobei/MZAPI](https://github.com/xiaomizhoubaobei/MZAPI)
 
 ## 开源许可证
 
@@ -38,6 +38,5 @@ MZAPI采用 [MIT许可证](LICENSE)。
 - 提交问题报告和功能请求
 - 提交代码改进和修复
 - 改进文档和示例
-- 如何想加入本项目源码的编写请联系作者获取本项目源码在阿里云云效仓库链接，然后编写代码并提交PR。
 
 如果你对项目感兴趣，欢迎成为贡献者！更多信息请查看[贡献指南](CONTRIBUTING.md)。

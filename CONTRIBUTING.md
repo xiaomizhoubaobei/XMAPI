@@ -53,6 +53,6 @@
 如果您有任何疑问或需要帮助，请随时通过以下方式联系我们：
 
 - 开发者邮件列表：[mzapi@x.mizhoubaobei.top](mailto:mzapi@x.mizhoubaobei.top)
-- 项目网站：[https://github.com/xiaomizhoubaobei/XMZAPI](https://github.com/xiaomizhoubaobei/XMZAPI)
+- 项目网站：[https://github.com/xiaomizhoubaobei/MZAPI](https://github.com/xiaomizhoubaobei/MZAPI)
 
 再次感谢您的贡献，期待与您一起让这个项目变得更好！
