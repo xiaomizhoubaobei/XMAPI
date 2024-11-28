@@ -20,7 +20,7 @@ from pyparsing import WordEnd好的，我将为您提供一个更加详细、适
 2. 输入以下命令并按回车：
 
    ```bash
-   pip install opentelemetry-api opentelemetry-sdk opentelemetry-exporter-otlp requests
+   pip install MZAPI
    ```
 
    这个命令会安装`wenansou_api`所需的所有库。
